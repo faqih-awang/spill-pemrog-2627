@@ -67,5 +67,5 @@ Keluaran adalah sebuah baris dengan dua buah nilai, yaitu rataan dan ragam dari 
 ### Penjelasan Contoh 1
 Ada 5 buah nilai, yaitu 83, 65, 95, 45 dan 75. Nilai minimum yang diinginkan adalah 70. Dari nilai-nilai tersebut, hanya 3 nilai yang memenuhi, yaitu: 83, 95 dan 75. Rataan dari ketiga nilai tersebut adalah 84.33, sedangkan ragamnya adalah 101.33. 
 
-**Hint:** Untuk soal ini, gunakan formula ragam sample (bukan ragam populasi) sebagai berikut:
+**Hint:** Untuk soal ini, gunakan formula ragam sample (bukan ragam populasi) sebagai berikut:<br>
 ![Formula ragam sample](rumus.png)
