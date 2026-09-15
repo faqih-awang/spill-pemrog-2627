@@ -1,7 +1,7 @@
-<center><h1>01A. Input dan Output pada C++</h1></center>
-<center>
+<h1 align="center">01A. Input dan Output pada C++</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Bahasa Pemrograman C++, meskipun dikembangkan dari Bahasa C, memiliki pustaka dan fungsi-fungsi tersendiri yang berbeda dengan Bahasa C dalam melakukan operasi dasar untuk membantu proses input dan output (membaca masukan dan mencetak keluaran). Dalam Bahasa C, kita biasa menggunakan pustaka `<stdio.h>` yang memiliki fungsi `scanf()` untuk membaca masukan (input) dan printf() untuk mencetak keluaran (output). Kedua fungsi tersebut menggunakan penanda format yang disesuaikan dengan tipe data dan format yang diinginkan pada proses input/output, misalnya %d untuk menyatakan bilangan bulat dalam desimal, %f untuk bilangan pecahan (float) dan sebagainya. 
