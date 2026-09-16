@@ -1,7 +1,7 @@
-<center><h1>03B. Pewarisan Class Pegawai</h1></center>
-<center>
+<h1 align="center">03B. Pewarisan Class Pegawai</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 PT Covid Corona Corp (CCC) ingin mengelola data kepegawaiannya. PT CCC memiliki 2 tipe pegawai, yaitu Pegawai Tetap dan Pegawai Harian. Perbedaan keduanya terletak pada sistem gaji, dimana Pegawai Tetap memiliki gaji pokok dan uang lembur, sedangkan Pegawai Harian hanya memiliki upah yang dihitung berdasarkan jumlah hari bekerja dalam sebulan.<br>
