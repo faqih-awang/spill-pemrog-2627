@@ -1,7 +1,7 @@
-<center><h1>01C. Bobot Ikan</h1></center>
-<center>
+<h1 align="center">01C. Bobot Ikan</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Selain menyediakan struktur data seperti vector, Standard Template Library (STL) dari C++ juga menyediakan beberapa algoritme standar yang biasa diperlukan dalam pemrograman, misalnya: pencarian (searching), pengurutan (sorting), dan sebagainya. Algoritme ini biasanya dapat diterapkan pada struktur data yang ada dan disediakan dalam header file `<algorithm>`. Sebagai contoh, untuk melakukan pengurutan data yang ada pada sebuah vector, kita dapat gunakan sintaks sebagai berikut:
