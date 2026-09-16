@@ -1,7 +1,7 @@
-<center><h1>02A. Botol Kemasan</h1></center>
-<center>
+<h1 align="center">02A. Botol Kemasan</h1>
+<p align="center">
 <b>Time limit:</b> 500 ms<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Dalam kehidupan sehari-hari, kita sering membeli minuman kemasan botol (misalnya jus atau air mineral). Mari kita perhatikan beberapa fakta tentang minuman botol tersebut:
