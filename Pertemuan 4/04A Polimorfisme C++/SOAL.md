@@ -1,7 +1,7 @@
-<center><h1>04A. Polimorfisme C++</h1></center>
-<center>
+<h1 align="center">04A. Polimorfisme C++</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Pada soal ini Anda diminta untuk mengimplementasikan konsep polimorfisme sederhana pada C++. Kita akan melambangkan objek bangun 2D dan 3D menjadi kelas-kelas pada C++ dengan struktur sebagai berikut (perhatikan diagram di bawah ini):
