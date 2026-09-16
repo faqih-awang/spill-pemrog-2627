@@ -1,7 +1,7 @@
-<center><h1>01B. Vector C++</h1></center>
-<center>
+<h1 align="center">01B. Vector C++</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Salah satu bentuk struktur data yang paling umum dipakai adalah array. Baik Bahasa C maupun C++ mendukung penggunaan array untuk menyimpan data berupa beberapa buah nilai dengan tipe yang sama. Namun, array dalam bahasa C/C++ bersifat statis, artinya ukuran array harus ditentukan dari awal sebelum dibuat dan ketika sudah ditentukan, tidak dapat ditambah/dikurangi ukurannya. Hal ini dapat menyebabkan penggunaan memori yang kurang efisien.

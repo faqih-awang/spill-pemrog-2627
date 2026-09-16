@@ -1,7 +1,7 @@
-<center><h1>03A. Batu Alam</h1></center>
-<center>
+<h1 align="center">03A. Batu Alam</h1>
+<p align="center">
 <b>Time limit:</b> 2 s<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Pak Andi akan memasang keramik batu alam di halaman belakang rumahnya. Beliau sudah membeli sebanyak N buah batu alam. yang semuanya berbentuk persegi panjang. Sayangnya, masing-masing batu memiliki ukuran yang mungkin berbeda-beda. Pak Andi tidak suka dengan ukuran batu yang kecil. Bantulah Pak Andi untuk menentukan K buah batu alam dengan luas terkecil dari tumpukan batu-batu yang dimilikinya. 

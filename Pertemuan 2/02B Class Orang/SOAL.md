@@ -1,7 +1,7 @@
-<center><h1>02B. Class Orang</h1></center>
-<center>
+<h1 align="center">02B. Class Orang</h1>
+<p align="center">
 <b>Time limit:</b> 500 ms<br><b>Memory limit:</b> 256 MB
-</center>
+</p>
 
 ### Description
 Diketahui class Orang dalam pemrograman C++ sebagai berikut:
