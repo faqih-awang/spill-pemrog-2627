@@ -1,7 +1,7 @@
-<center><h1>04B. Sistem Pencatatan Perparkiran Kampus</h1></center>
-<center>
+<h1 align="center">04B. Sistem Pencatatan Perparkiran Kampus</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 65138 KB
-</center>
+</p>
 
 ### Deskripsi
 Setiap hari, ribuan kendaraan masuk dan keluar dari area parkir kampus. Untuk mengelola parkir secara efisien, pihak pengelola kampus ingin membangun sistem pencatatan otomatis.
